@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  TaskTrek – React Todo App
 
 A simple and clean **Task Management / Todo App** built with **React 18**, storing tasks in **LocalStorage**.  
@@ -78,3 +79,7 @@ src/
 
 ##  Author
 **Muhammad Raza**
+=======
+# Todo_Task
+A simple Todo Task using React
+>>>>>>> d899a99c4482a1cc6af984c07a2fda542b0d9a2c
